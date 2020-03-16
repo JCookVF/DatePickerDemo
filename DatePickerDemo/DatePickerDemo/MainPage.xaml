@@ -11,9 +11,12 @@
                     MinimumDate="{Binding MinDate}"
                     HorizontalOptions="Center"
                     VerticalOptions="Center"/>
-        <Label Text="{Binding Date}"
-               HorizontalOptions="Center"
-               VerticalOptions="Center"/>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Actual Date: "/>
+            <Label Text="{Binding Date}"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>            
+        </StackLayout>
     </StackLayout>
 
 </ContentPage>
