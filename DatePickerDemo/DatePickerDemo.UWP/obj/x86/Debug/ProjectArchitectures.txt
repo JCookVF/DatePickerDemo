@@ -1,0 +1,1 @@
+C:\Project\TEST\DatePickerDemo\DatePickerDemo\DatePickerDemo\DatePickerDemo.UWP\DatePickerDemo.UWP.csproj;x86

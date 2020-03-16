@@ -1,0 +1,11 @@
+C:\Project\TEST\DatePickerDemo\DatePickerDemo\DatePickerDemo\DatePickerDemo\bin\Debug\netstandard2.0\DatePickerDemo.deps.json
+C:\Project\TEST\DatePickerDemo\DatePickerDemo\DatePickerDemo\DatePickerDemo\bin\Debug\netstandard2.0\DatePickerDemo.dll
+C:\Project\TEST\DatePickerDemo\DatePickerDemo\DatePickerDemo\DatePickerDemo\bin\Debug\netstandard2.0\DatePickerDemo.pdb
+C:\Project\TEST\DatePickerDemo\DatePickerDemo\DatePickerDemo\DatePickerDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Project\TEST\DatePickerDemo\DatePickerDemo\DatePickerDemo\DatePickerDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Project\TEST\DatePickerDemo\DatePickerDemo\DatePickerDemo\DatePickerDemo\obj\Debug\netstandard2.0\DatePickerDemo.csproj.CoreCompileInputs.cache
+C:\Project\TEST\DatePickerDemo\DatePickerDemo\DatePickerDemo\DatePickerDemo\obj\Debug\netstandard2.0\DatePickerDemo.AssemblyInfoInputs.cache
+C:\Project\TEST\DatePickerDemo\DatePickerDemo\DatePickerDemo\DatePickerDemo\obj\Debug\netstandard2.0\DatePickerDemo.AssemblyInfo.cs
+C:\Project\TEST\DatePickerDemo\DatePickerDemo\DatePickerDemo\DatePickerDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Project\TEST\DatePickerDemo\DatePickerDemo\DatePickerDemo\DatePickerDemo\obj\Debug\netstandard2.0\DatePickerDemo.dll
+C:\Project\TEST\DatePickerDemo\DatePickerDemo\DatePickerDemo\DatePickerDemo\obj\Debug\netstandard2.0\DatePickerDemo.pdb
