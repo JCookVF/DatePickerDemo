@@ -6,6 +6,7 @@
 
     <StackLayout HorizontalOptions="Center"
                  VerticalOptions="Center">
+        <Label Text="{Binding MaxAndMinDateLabel}"/>
         <DatePicker Date="{Binding Date}"
                     MaximumDate="{Binding MaxDate}"
                     MinimumDate="{Binding MinDate}"
@@ -15,8 +16,7 @@
             <Label Text="Actual Date: "/>
             <Label Text="{Binding Date}"
                    HorizontalOptions="Center"
-                   VerticalOptions="Center"/>            
+                   VerticalOptions="Center"/>
         </StackLayout>
     </StackLayout>
-
 </ContentPage>

@@ -49,12 +49,15 @@ namespace DatePickerDemo
             }
         }
 
+        public string MaxAndMinDateLabel { get; set; }
+
         public event PropertyChangedEventHandler PropertyChanged;
 
         public MainPageVM()
         {
             MinDate = new DateTime(2020, 01, 01);
             MaxDate = new DateTime(2020, 06, 30);
+            MaxAndMinDateLabel = $"Max Date: {MaxDate.Date.ToString("MM/dd/yyyy")} and Min Date: {MinDate.Date.ToString("MM/dd/yyyy")}";
         }
     }
 }
